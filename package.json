@@ -1,0 +1,26 @@
+{
+  "name": "mvp-web-scraper-1764407061",
+  "version": "1.0.0",
+  "description": "MVP for: Что делать:\n- искать и отбирать подходящие вакансии на целевых сайтах;\n- адаптировать резюме и сопро...",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.6",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "cheerio": "^1.0.0-rc.12",
+    "lucide-react": "^0.294.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-next": "14.0.4"
+  }
+}
